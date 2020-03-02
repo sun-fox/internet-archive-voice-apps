@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "internet-archive",
-    "ia": "internet-archive"
+    "default": "sunnyia"
   }
 }
